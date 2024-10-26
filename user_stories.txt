@@ -1,0 +1,4 @@
+MVC with multiple models: a Hospital
+
+patients
+rooms
